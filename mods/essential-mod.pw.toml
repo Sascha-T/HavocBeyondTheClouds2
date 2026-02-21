@@ -1,0 +1,18 @@
+name = "Essential Mod"
+filename = "Essential_1-3-10-5_forge_1-20-1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a1f7646500ea12db41fb6a82977bf6a6263d33f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7632725
+project-id = 546670
+
+[option]
+optional = true
+default = false
+description = "Bloat, if you must use this mod, please enable not so essential."

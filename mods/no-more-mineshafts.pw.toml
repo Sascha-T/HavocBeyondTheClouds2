@@ -1,0 +1,13 @@
+name = "No More Mineshafts"
+filename = "NoMoreVanillaMineshafts - 0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f316563a7ce26c4614b5c2783a1b0ad8a77aa15b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5171362
+project-id = 725778

@@ -1,0 +1,13 @@
+name = "Vmod (Curseforge Port)"
+filename = "VMod-Forge-1.20.1-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bed7678675cbdfad672b60d84c2f2fa30c40a82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7471326
+project-id = 1432420
