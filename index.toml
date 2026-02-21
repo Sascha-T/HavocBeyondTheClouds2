@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.skin-layers-3d.pw.toml.kate-swp"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d9c96ebb61db25f753a7bd2858ef5c874cb236d7e744f749ce8f713f6d193f92"
+metafile = true
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.46r.jar"
 hash = "e78152a8acc771121772750360e6a89f14414375a5ca7df7da168b1c1f40064b"
 
@@ -197,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-smart-crafter.pw.toml"
-hash = "7fd2d1ded5af66fa6d32d5f6ad0c7c9d5f98def2b3f430c8d4f64ffb4549ac28"
+hash = "153eb934591438c49cfe5475189f317653ae47ea25c48767a9fe5707926ce8c4"
 metafile = true
 
 [[files]]
@@ -256,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "17a3054811a963fa22695ff06b36888867802c2ba7859042a6b8986c42c98948"
+hash = "096cacfa9788413687978dc47d7272301b83e1ad90bc27df9a2254b32957d102"
 metafile = true
 
 [[files]]
@@ -394,7 +403,7 @@ hash = "7f5aa433075e618795e41a70990f801c49bff2877821ba1b2b8c5e7916377ce5"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c1ac458b10fb113a091ba3365528dedd5806a59e1797b304a97caf4bdb9cb9c2"
+hash = "723cd73a87bfd47f6d366e16a3c253857a6d63fc727386a73744a87da5e022fc"
 metafile = true
 
 [[files]]
@@ -421,13 +430,13 @@ file = "mods/peripheralworks-forge-1.20.1-1.7.15.jar"
 hash = "6c0a85203d3dfa847bdf08e5b75ec86f89821df648c308052c627aa856f8037b"
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "656ae0fefd81fd6bbc9c46c8b1454c5eb6442106d4e5429e3f75184ce09ef587"
+file = "mods/petrolpark.pw.toml"
+hash = "20b656798b6afb8ed1133cc7cd7ac5c61a8f73e49f321544e4ac554620167fb1"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "4a4ad7b9c5255b80fde9a5cad1c23acc8e0133f5a588cd8c541185d52922d8b2"
+hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
 metafile = true
 
 [[files]]
@@ -473,11 +482,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "c2a2d73eaaa5c31938a1027fa55e7c29193742c1c53e89f483653a2cdfa982ec"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "4daab4dbfbf7e24118fec23764a6861d2d12f785d4a24e8ef362a0541095e76e"
 metafile = true
 
 [[files]]
