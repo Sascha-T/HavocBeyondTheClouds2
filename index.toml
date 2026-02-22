@@ -205,6 +205,11 @@ hash = "97c5c114fa0b91111eabfd94e2207e619586f11ea527e1ad79e20d078c0277e1"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "2d11e4f5b92d42b36b4651bd3061dc24cf73821af091338451ba8b25f7b0dd9a"
+metafile = true
+
+[[files]]
 file = "mods/create-smart-crafter.pw.toml"
 hash = "153eb934591438c49cfe5475189f317653ae47ea25c48767a9fe5707926ce8c4"
 metafile = true
@@ -276,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "363aefae48da61149d3660a27050a978ebcb655105b2484d5fc8298fa1c28ac2"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "efb71d9842d26ee82c813e95e2648a445b1ebc4d2de8491df6b6438603130856"
 metafile = true
 
 [[files]]
@@ -375,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "6f84c68150a39cc4e7b1403e0796ad06b7095c20947e8cd0c30366368c443759"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
 metafile = true
 
 [[files]]
@@ -495,6 +510,16 @@ hash = "c2a2d73eaaa5c31938a1027fa55e7c29193742c1c53e89f483653a2cdfa982ec"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "59b6fdfc212eb4665e5e5b15c38a0f36272432694eb8b681f7d77ec61f9982cb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "84fb3b394eaf7dc9e12cc034da4f99b8023bc4e4c31df940d40167beb80daf20"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
@@ -502,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/telluriumforge-1.4.0-1.20.1-forge.jar"
 hash = "12c0b0a481df4a05f0cb86c99d8b689d1a80b23b3da605c6f8b76fd343e1171c"
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
+metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
