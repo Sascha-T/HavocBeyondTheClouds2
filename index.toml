@@ -111,6 +111,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "0156f093b5a9e07cba491de843e23c84bfb546b6a032ed5c3b364ede2ec15d1f"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "5ea40f6165cd0e0cca0dbb838708df67d6d6603405b5b16c25e1adfa2ecacd57"
 metafile = true
@@ -170,6 +175,11 @@ hash = "c5f30d9ab224c5df151659e50f45e02fad4c59ff4262d75247373dd667b6e704"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
+metafile = true
+
+[[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/create-smart-crafter.pw.toml"
 hash = "153eb934591438c49cfe5475189f317653ae47ea25c48767a9fe5707926ce8c4"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "aba70a0cd8e2169d87508bcf587b8f59cebd0ea466b2fd873a0ca21f9a02ade3"
 metafile = true
 
 [[files]]
