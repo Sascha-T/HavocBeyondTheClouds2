@@ -289,8 +289,18 @@ hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "1e47e32fa0533e32f43accb0b5d0457ba638ef386b8cf0d36a24fb2ddda04562"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "096cacfa9788413687978dc47d7272301b83e1ad90bc27df9a2254b32957d102"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "959bc3341df7162384d5126fb6b9686469529ecb0d5fea8fac10f65828d16470"
 metafile = true
 
 [[files]]
@@ -487,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "aceafb4f6753ac6b7bd5204cb4b4f9a1dbc21f6f8c97844348633b271ea5697d"
 metafile = true
 
 [[files]]
